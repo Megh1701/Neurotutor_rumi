@@ -1,4 +1,4 @@
-from profile import get_all_topics
+from student_profile import get_all_topics
 from knowledge_graph import get_prerequisites
 from knowledge_graph import get_related_topics
 

@@ -8,11 +8,11 @@ from routes import *
 
 from topic import extract_topic
 
-from profile import get_roadmap
+from student_profile import get_roadmap
 
-from profile import get_mastery
+from student_profile import get_mastery
 
-from profile import get_completed_steps
+from student_profile import get_completed_steps
 
 from teaching_strategy import get_teaching_style
 

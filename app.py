@@ -7,7 +7,7 @@ from rag import process_pdf, ask_pdf
 from teaching_strategy import get_teaching_style
 from probe import generate_probe, evaluate_answer, explain_mistake
 from topic import is_followup, extract_topic
-from profile import (
+from student_profile import (
     adjust_mastery,
     get_mastery,
     get_all_topics,

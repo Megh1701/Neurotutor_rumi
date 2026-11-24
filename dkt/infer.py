@@ -27,7 +27,7 @@ def predict_mastery_dkt(topic):
     Predict mastery using the DKT model.
     Blends DKT predictions with simple history for more reliable results.
     """
-    from profile import get_profile
+    from student_profile import get_profile
 
     profile = get_profile()
 

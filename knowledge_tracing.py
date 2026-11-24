@@ -1,4 +1,4 @@
-from profile import get_profile
+from student_profile import get_profile
 
 
 INITIAL_MASTERY = 0.20

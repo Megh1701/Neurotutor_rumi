@@ -1,5 +1,5 @@
 from prerequisite import get_prerequisites
-from profile import get_mastery
+from student_profile import get_mastery
 
 
 def recommend_learning_path(topic):
