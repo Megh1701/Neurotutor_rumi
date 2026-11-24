@@ -1,0 +1,627 @@
+{
+    "topics": {
+        "Machine Learning": {
+            "mastery": 0.64,
+            "history": [
+                true,
+                false,
+                true,
+                false,
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                true,
+                false
+            ],
+            "interactions": [
+                {
+                    "concept": "Definition",
+                    "correct": true,
+                    "difficulty": "easy",
+                    "response_time": 6.4
+                },
+                {
+                    "concept": "Supervised Learning",
+                    "correct": false,
+                    "difficulty": "easy",
+                    "response_time": 12.1
+                },
+                {
+                    "concept": "Unsupervised Learning",
+                    "correct": true,
+                    "difficulty": "medium",
+                    "response_time": 9.8
+                },
+                {
+                    "concept": "Regression",
+                    "correct": false,
+                    "difficulty": "medium",
+                    "response_time": 15.2
+                },
+                {
+                    "concept": "Classification",
+                    "correct": true,
+                    "difficulty": "medium",
+                    "response_time": 8.5
+                },
+                {
+                    "concept": "Decision Trees",
+                    "correct": true,
+                    "difficulty": "hard",
+                    "response_time": 18.0
+                },
+                {
+                    "concept": "Bias Variance",
+                    "correct": false,
+                    "difficulty": "hard",
+                    "response_time": 24.0
+                },
+                {
+                    "concept": "Model Evaluation",
+                    "correct": true,
+                    "difficulty": "hard",
+                    "response_time": 20.4
+                }
+            ],
+            "roadmap": [
+                "Definition",
+                "Supervised Learning",
+                "Unsupervised Learning",
+                "Regression",
+                "Classification",
+                "Decision Trees",
+                "Model Evaluation"
+            ],
+            "completed_steps": [
+                0,
+                1
+            ],
+            "concepts": {}
+        },
+        "Database Management System": {
+            "mastery": 0.56,
+            "history": [
+                false,
+                false,
+                true,
+                false,
+                true,
+                true,
+                true,
+                false,
+                false
+            ],
+            "interactions": [
+                {
+                    "concept": "Definition",
+                    "correct": false,
+                    "difficulty": "easy",
+                    "response_time": 7.2
+                },
+                {
+                    "concept": "SQL",
+                    "correct": false,
+                    "difficulty": "easy",
+                    "response_time": 14.8
+                },
+                {
+                    "concept": "Normalization",
+                    "correct": true,
+                    "difficulty": "medium",
+                    "response_time": 11.0
+                },
+                {
+                    "concept": "Joins",
+                    "correct": false,
+                    "difficulty": "medium",
+                    "response_time": 16.5
+                },
+                {
+                    "concept": "Transactions",
+                    "correct": true,
+                    "difficulty": "hard",
+                    "response_time": 19.1
+                },
+                {
+                    "concept": "Indexing",
+                    "correct": true,
+                    "difficulty": "hard",
+                    "response_time": 17.4
+                },
+                {
+                    "concept": "Strong Data Consistency",
+                    "correct": true,
+                    "difficulty": "medium",
+                    "response_time": 0.0
+                },
+                {
+                    "concept": "Here are the important concepts related to Database Models:",
+                    "correct": false,
+                    "difficulty": "medium",
+                    "response_time": 0.0
+                },
+                {
+                    "concept": "Relational Model",
+                    "correct": false,
+                    "difficulty": "medium",
+                    "response_time": 0.0
+                }
+            ],
+            "roadmap": [
+                "Definition",
+                "SQL",
+                "Normalization",
+                "Joins",
+                "Transactions",
+                "Indexing"
+            ],
+            "completed_steps": [
+                0,
+                1,
+                2
+            ],
+            "concepts": {}
+        },
+        "Software Engineering": {
+            "mastery": 0.46,
+            "history": [
+                false,
+                false,
+                true,
+                false,
+                true
+            ],
+            "interactions": [
+                {
+                    "concept": "Structural integrity",
+                    "correct": false,
+                    "difficulty": "medium",
+                    "response_time": 0.0
+                },
+                {
+                    "concept": "Supervised learning works by minimizing the difference between predicted outputs and actual outcomes for every training example to learn a mapping from inputs to outputs.",
+                    "correct": true,
+                    "difficulty": "medium",
+                    "response_time": 0.0
+                },
+                {
+                    "concept": "Supervised learning is similar to predicting traffic flow based on labeled data points (e.g., input from sensors) and corresponding output labels (predicted congestion levels).",
+                    "correct": false,
+                    "difficulty": "medium",
+                    "response_time": 0.0
+                },
+                {
+                    "concept": "\u2022 Supervised Learning: Using labeled data points to learn a mapping from inputs to outputs.",
+                    "correct": true,
+                    "difficulty": "medium",
+                    "response_time": 0.0
+                },
+                {
+                    "concept": "Supervised learning is similar to predicting traffic flow on a busy highway based on sensor data from cameras and sensors along the road.",
+                    "correct": false,
+                    "difficulty": "medium",
+                    "response_time": 0.0
+                },
+                {
+                    "concept": "Modularity",
+                    "correct": true,
+                    "difficulty": "medium",
+                    "response_time": 0.0
+                },
+                {
+                    "concept": "Modularity",
+                    "correct": false,
+                    "difficulty": "medium",
+                    "response_time": 0.0
+                },
+                {
+                    "concept": "Systematic approach",
+                    "correct": false,
+                    "difficulty": "medium",
+                    "response_time": 0.0
+                },
+                {
+                    "concept": "Systematic approach",
+                    "correct": true,
+                    "difficulty": "medium",
+                    "response_time": 0.0
+                }
+            ],
+            "roadmap": [
+                "Fundamentals of Software Engineering",
+                "Object-Oriented Programming (OOP) Concepts",
+                "Design Patterns and Principles",
+                "Software Development Life Cycle (SDLC)",
+                "Agile Methodologies",
+                "Testing and Validation Methods",
+                "Version Control Systems (Git)",
+                "Software Maintenance and Evolution"
+            ],
+            "completed_steps": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "concepts": {
+                "Fundamentals of Software Engineering": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Object-Oriented Programming (OOP) Concepts": {
+                    "mastery": 0.30000000000000004,
+                    "history": [
+                        true
+                    ],
+                    "completed": false
+                },
+                "Design Patterns and Principles": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Software Development Life Cycle (SDLC)": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Agile Methodologies": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Testing and Validation Methods": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Version Control Systems (Git)": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Software Maintenance and Evolution": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                }
+            }
+        },
+        "Topic \nPython Programming Language": {
+            "mastery": 0.0,
+            "history": [
+                false
+            ],
+            "interactions": [
+                {
+                    "concept": "Variables",
+                    "correct": false,
+                    "difficulty": "medium",
+                    "response_time": 0.0
+                },
+                {
+                    "concept": "Attributes (Data Members)",
+                    "correct": false,
+                    "difficulty": "medium",
+                    "response_time": 0.0
+                },
+                {
+                    "concept": "Object-Oriented Programming (OOP) Concepts",
+                    "correct": true,
+                    "difficulty": "medium",
+                    "response_time": 0.0
+                }
+            ],
+            "roadmap": [
+                "Syntax and Structure",
+                "Data Types (Variables, Strings, Integers, Floats)",
+                "Control Flow Statements (If/Else, Loops, Break/Continue)",
+                "Functions and Modules",
+                "Object-Oriented Programming (Classes, Objects, Inheritance)",
+                "File Input/Output Operations",
+                "Exception Handling"
+            ],
+            "completed_steps": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "concepts": {
+                "Syntax and Structure": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Data Types (Variables, Strings, Integers, Floats)": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Control Flow Statements (If/Else, Loops, Break/Continue)": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Functions and Modules": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Object-Oriented Programming (Classes, Objects, Inheritance)": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "File Input/Output Operations": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Exception Handling": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                }
+            }
+        },
+        "Supervised Learning": {
+            "mastery": 0.2,
+            "history": [],
+            "interactions": [],
+            "roadmap": [
+                "Definition",
+                "Supervised Learning Algorithm Overview",
+                "Cost Functions and Optimizers",
+                "Model Training and Validation",
+                "Hyperparameter Tuning",
+                "Regularization Techniques",
+                "Overfitting and Underfitting",
+                "Evaluation Metrics"
+            ],
+            "completed_steps": [],
+            "concepts": {
+                "Definition": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Supervised Learning Algorithm Overview": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Cost Functions and Optimizers": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Model Training and Validation": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Hyperparameter Tuning": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Regularization Techniques": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Overfitting and Underfitting": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Evaluation Metrics": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                }
+            }
+        },
+        "NONE": {
+            "mastery": 0.2,
+            "history": [],
+            "interactions": [],
+            "roadmap": [
+                "Understanding the concept of \"NONE\"",
+                "Identifying the context of \"NONE\"",
+                "Defining the meaning of \"NONE\" in different fields",
+                "Recognizing the role of \"NONE\" in decision-making",
+                "Analyzing the impact of \"NONE\" on outcomes",
+                "Exploring real-world applications of \"NONE\"",
+                "Evaluating the benefits and limitations of \"NONE\"",
+                "Applying the concept of \"NONE\" to everyday situations"
+            ],
+            "completed_steps": [],
+            "concepts": {
+                "Understanding the concept of \"NONE\"": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Identifying the context of \"NONE\"": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Defining the meaning of \"NONE\" in different fields": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Recognizing the role of \"NONE\" in decision-making": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Analyzing the impact of \"NONE\" on outcomes": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Exploring real-world applications of \"NONE\"": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Evaluating the benefits and limitations of \"NONE\"": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Applying the concept of \"NONE\" to everyday situations": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                }
+            }
+        },
+        "Topic\nOperating System Kernel": {
+            "mastery": 0.2,
+            "history": [],
+            "interactions": [],
+            "roadmap": [
+                "Definition",
+                "Structure and Organization",
+                "Process Management",
+                "Memory Management",
+                "Synchronization and Concurrency",
+                "Security and Access Control",
+                "System Calls and Interfacing",
+                "Kernel Development Models"
+            ],
+            "completed_steps": [],
+            "concepts": {
+                "Definition": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Structure and Organization": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Process Management": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Memory Management": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Synchronization and Concurrency": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Security and Access Control": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "System Calls and Interfacing": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Kernel Development Models": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                }
+            }
+        },
+        "Cyber Security": {
+            "mastery": 0.5,
+            "history": [
+                true,
+                false
+            ],
+            "interactions": [
+                {
+                    "concept": "Confidentiality",
+                    "correct": true,
+                    "difficulty": "medium",
+                    "response_time": 0.0
+                },
+                {
+                    "concept": "Confidentiality refers to the protection of sensitive information from unauthorized access.",
+                    "correct": false,
+                    "difficulty": "medium",
+                    "response_time": 0.0
+                }
+            ],
+            "roadmap": [
+                "Definition",
+                "Types of Cyber Threats",
+                "Vulnerabilities and Exploits",
+                "Cryptography Basics",
+                "Network Security Fundamentals",
+                "Authentication and Authorization",
+                "Incident Response and Threat Hunting",
+                "Cyber Security Measures and Best Practices"
+            ],
+            "completed_steps": [
+                0
+            ],
+            "concepts": {
+                "Definition": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Types of Cyber Threats": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Vulnerabilities and Exploits": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Cryptography Basics": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Network Security Fundamentals": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Authentication and Authorization": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Incident Response and Threat Hunting": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                },
+                "Cyber Security Measures and Best Practices": {
+                    "mastery": 0.2,
+                    "history": [],
+                    "completed": false
+                }
+            }
+        }
+    }
+}

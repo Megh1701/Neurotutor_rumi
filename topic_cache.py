@@ -1,0 +1,3 @@
+TOPIC_CACHE = {}
+
+FOLLOWUP_CACHE = {}

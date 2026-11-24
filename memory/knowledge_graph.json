@@ -1,0 +1,86 @@
+{
+    "Machine Learning": {
+        "topic": "Machine Learning",
+        "prerequisites": [],
+        "concepts": [
+            "Definition",
+            "Supervised Learning",
+            "Unsupervised Learning",
+            "Regression",
+            "Classification",
+            "Decision Trees",
+            "Model Evaluation"
+        ],
+        "related": [
+            "Artificial Intelligence",
+            "Deep Learning"
+        ],
+        "difficulty": 3,
+        "estimated_lessons": 7
+    },
+    "Database Management System": {
+        "topic": "Database Management System",
+        "prerequisites": [],
+        "concepts": [
+            "Definition",
+            "SQL",
+            "Normalization",
+            "Joins",
+            "Transactions",
+            "Indexing"
+        ],
+        "related": [
+            "Operating Systems",
+            "Computer Networks"
+        ],
+        "difficulty": 3,
+        "estimated_lessons": 6
+    },
+    "Software Engineering": {
+        "topic": "Software Engineering",
+        "prerequisites": [],
+        "concepts": [],
+        "related": [],
+        "difficulty": 3,
+        "estimated_lessons": 6
+    },
+    "Topic \nPython Programming Language": {
+        "topic": "Python Programming Language",
+        "prerequisites": [
+            ""
+        ],
+        "concepts": [
+            "Variables and Data Types",
+            "Control Structures",
+            "Functions",
+            "Object-Oriented Programming",
+            "File Input/Output",
+            "Error Handling"
+        ],
+        "related": [
+            "Data Structures",
+            "Algorithms",
+            "Web Development with Python",
+            "Machine Learning with Python",
+            "Automation and Scripting"
+        ],
+        "difficulty": 3,
+        "estimated_lessons": 10
+    },
+    "Topic\nOperating System Kernel": {
+        "topic": "Topic\nOperating System Kernel",
+        "prerequisites": [],
+        "concepts": [],
+        "related": [],
+        "difficulty": 3,
+        "estimated_lessons": 6
+    },
+    "Cyber Security": {
+        "topic": "Cyber Security",
+        "prerequisites": [],
+        "concepts": [],
+        "related": [],
+        "difficulty": 3,
+        "estimated_lessons": 6
+    }
+}

@@ -1,0 +1,3 @@
+PROBE_CACHE = {}
+
+EVALUATION_CACHE = {}
